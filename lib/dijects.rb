@@ -1,4 +1,4 @@
-#require "dijects/version"
+require "dijects/version"
 
 module Dijects
   class Base
